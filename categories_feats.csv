@@ -1,0 +1,100 @@
+,property_category,property_name
+0,Physical property,Density
+1,Physical property,Specific volume
+2,Optical property,Refractive index
+3,Thermal property,Crystallization kinetics r
+4,Thermal property,Crystallization kinetics k
+5,Thermal property,Crystallization kinetics n
+6,Thermal property,Crystallization kinetics half time of crystallization
+7,Thermal property,Crystallization temperature
+8,Thermal property,Glass transition temperature
+9,Thermal property,Heat of crystallization
+10,Thermal property,Heat of fusion
+11,Thermal property,Heat of fusion mol conversion
+12,Thermal property,Thermal decomposition temperature
+13,Thermal property,Thermal decomposition weight loss
+14,Thermal property,Isothermal weight loss temperature
+15,Thermal property,Isothermal weight loss time
+16,Thermal property,Lc phase transition temperature
+17,Thermal property,Melting temperature
+18,Thermal property,Specific heat capacity cp
+19,Thermal property,Specific heat capacity cv
+20,Thermal property,Thermal conductivity
+21,Thermal property,Thermal diffusivity
+22,Electric property,Dielectric constant ac
+23,Electric property,Dielectric loss factor
+24,Electric property,Dielectric loss tangent
+25,Electric property,Electric conductivity
+26,Electric property,Surface resistivity
+27,Electric property,Volume resistivity
+28,Physicochemical property,Cohesive energy density
+29,Physicochemical property,Gas diffusion coefficient d
+30,Physicochemical property,Gas permeability coefficient p
+31,Physicochemical property,Gas solubility coefficient s
+32,Physicochemical property,Hansen parameter delta-d: dispersion component
+33,Physicochemical property,Hansen parameter delta-h: hydrogen bonding
+34,Physicochemical property,Hansen parameter delta p polar
+35,Physicochemical property,Interfacial tension
+36,Physicochemical property,Solubility parameter
+37,Physicochemical property,Surface tension
+38,Physicochemical property,Water absorption
+39,Physicochemical property,Water vapor transmission
+40,Physicochemical property,Contact angle
+41,Dilute solution property,Intrinsic viscosity eta
+42,Dilute solution property,Radius of gyration
+43,Dilute solution property,Second virial coefficient
+44,Tensile property,Dynamic mechanical properties storage modulus
+45,Tensile property,Dynamic mechanical properties loss modulus
+46,Tensile property,Dynamic mechanical properties loss tangent
+47,Tensile property,Elongation at break
+48,Tensile property,Elongation at yield
+49,Tensile property,Fiber tensile elongation at break
+50,Tensile property,Fiber tensile modulus
+51,Tensile property,Fiber tensile stress strength at break
+52,Tensile property,Tensile modulus
+53,Tensile property,Tensile stress strength at break
+54,Tensile property,Tensile stress strength at yield
+55,Shear property,Dynamic shear properties storage modulus
+56,Shear property,Dynamic shear properties loss modulus
+57,Shear property,Dynamic shear properties loss tangent
+58,Shear property,Shear modulus
+59,Shear property,Shear stress strength at break
+60,Shear property,Shear stress strength at yield
+61,Flexural property,Dynamic flexural properties storage modulus
+62,Flexural property,Dynamic flexural properties loss modulus
+63,Flexural property,Dynamic flexural properties loss tanget
+64,Flexural property,Flexural modulus
+65,Flexural property,Flexural stress strength at break
+66,Flexural property,Flexural stress strength at yield
+67,Compression characteristics,Compressive modulus
+68,Compression characteristics,Compressive stress strength at break
+69,Compression characteristics,Compressive stress strength at yield
+70,Compression characteristics,Dynamic compressive properties storage modulus
+71,Compression characteristics,Dynamic compressive properties loss tangent
+72,Creep characteristics,Tensile creep compliance
+73,Creep characteristics,Tensile creep modulus
+74,Creep characteristics,Tensile creep recovery
+75,Creep characteristics,Tensile creep rupture time
+76,Creep characteristics,Tensile creep strain
+77,Heat characteristics,Brittleness temperature
+78,Heat characteristics,Deflection temperature under load hdt
+79,Heat characteristics,Softening temperature
+80,Heat characteristics,Vicat softening temperature
+81,Impact strength,Charpy impact
+82,Impact strength,Izod impact
+83,Hardness,Shore hardness
+84,Heat resistance and combustion,Oxygen index
+85,Other physical property,Bulk modulus
+86,Other physical property,Compressibility
+87,Other physical property,G value
+88,Other physical property,Pvt relation pressure
+89,Other physical property,Pvt relation specific volume
+90,Other physical property,Pvt relation temperature
+91,Other physical property,Radiation resistance
+92,Polymer Information,SMILES
+134,Rheological property,Dynamic viscosity loss tangent
+357,Dilute solution property,Diffusion coefficient
+609,Dilute solution property,Sedimentation coefficient
+3205,Creep characteristics,Flexural creep strain
+4777,Creep characteristics,Tensile creep rupture strength
+4853,Compression characteristics,Dynamic compressive properties loss modulus
