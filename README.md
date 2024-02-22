@@ -8,4 +8,4 @@ Index:
 
 
 
-All rights of the original work belong to the authors, the original article can be accessed at **Polymers** 2024, 16(1), 115; https://doi.org/10.3390/polym16010115.  The original dataset is avaliable in the github repository outlined in the original manuscript and linked [here](https://github.com/catauggie/polymersML).
+*Note*: All rights of the original work belong to the authors, the original article can be accessed at **Polymers** 2024, 16(1), 115; https://doi.org/10.3390/polym16010115.  The original dataset is avaliable in the github repository outlined in the original manuscript and linked [here](https://github.com/catauggie/polymersML).
