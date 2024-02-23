@@ -9,6 +9,7 @@ Index:
 <br> Chapter 5. [Extending the Models](https://github.com/chriswilson2020/ML-For-PolymerChemistry/blob/main/Extending_ML_Models.ipynb): Diverging from the original publication and extending the models into potentially more applicable options.
 <br> Chapter 6. Model evaluation (coming soon)
 <br> Chapter 7. [Neural Networks Keras and TensorFlow](https://github.com/chriswilson2020/ML-For-PolymerChemistry/blob/main/Polymer_Properties_Neural_Networks_Keras_TensorFlow.ipynb): Extending functionality into Neural Networks using Keras and TensorFlow
+<br> Chapter 8. [Neural Network Optimisation](https://github.com/chriswilson2020/ML-For-PolymerChemistry/blob/main/Polymer_properties%20Optimising_NN.ipynb): Optimising the Neeural Network with various parameters
 
 <br> [The Original Dataset](https://github.com/catauggie/polymersML/blob/main/polyinfo%20homopolymer.xlsx): The original dataset is uploaded [here](https://github.com/chriswilson2020/ML-For-PolymerChemistry/blob/main/polyinfo%20homopolymer.xlsx) for archival purposes
 
